@@ -137,6 +137,14 @@ const Home = () => {
               {pageNumber}
             </button>
           ))}
+          <div>
+
+          Hello
+          </div>
+          <div>
+
+          bye
+          </div>
           <button
             className="pag-button"
             onClick={handleNext}
